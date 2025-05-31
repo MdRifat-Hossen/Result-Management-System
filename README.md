@@ -58,13 +58,19 @@ Your CSV should include the following columns in order:
 ## Screenshots
 
 ### Main Page
-![Main Page](images/main_page.png)
+![Main Page](./Image/Screenshot%202025-06-01%20022255.png)
+
+
 
 ### Admin Dashboard
-![Admin Dashboard](images/admin_dashboard.png)
+![Screenshot 1](./Image/Screenshot%202025-06-01%20022309.png)  
+
+![Screenshot 4](./Image/Screenshot%202025-06-01%20022322.png)  
+
 
 ### PDF Result Sheet
-![PDF Result](images/result_sheet.png)
+![Screenshot 2](./Image/Screenshot%202025-06-01%20022405.png)  
+![Screenshot 3](./Image/Screenshot%202025-06-01%20022337.png)  
 
 
 ---
